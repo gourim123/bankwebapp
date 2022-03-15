@@ -9,6 +9,7 @@
     height: 100%;
 	width: 100%;
 	background-position: center;
+	background-color:pink
 	background-size: cover;
 	position: absolute;
 }
