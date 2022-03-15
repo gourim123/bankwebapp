@@ -9,7 +9,7 @@
     height: 100%;
 	width: 100%;
 	background-position: center;
-	background-color:pink
+	 background-image: linear-gradient(red, yellow);
 	background-size: cover;
 	position: absolute;
 }
